@@ -52,6 +52,9 @@ Follow these steps for completing your project.
 - If you want, this is the time to make a simple design spec (look up ["simple wireframes"](https://www.google.com/search?q=simple+wireframes) to find resources & examples). **A pen & paper sketch (or outline) is often the fastest way to start your planning.**
 - Once you have a design plan in mind, break down the designs into individual components.
 - Plan which components will hold state, what data each needs from props (if any), and where you will be making your data fetch.
+
+**_Design Concept_** [Figma]('https://www.figma.com/file/PQJGzDMUfcqfTLCjiYm0So/Nasa-Photo-of-the-Day?node-id=0%3A1')
+![alt text](./images/NasaPhotoOfTheDay2019-09-12.jpg "Figma Concept")
 - Now it's time to jump into the code!
 
 **Step 2 - File structure**
