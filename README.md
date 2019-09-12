@@ -54,7 +54,7 @@ Follow these steps for completing your project.
 - Plan which components will hold state, what data each needs from props (if any), and where you will be making your data fetch.
 
 **_Design Concept_** [Figma]('https://www.figma.com/file/PQJGzDMUfcqfTLCjiYm0So/Nasa-Photo-of-the-Day?node-id=0%3A1')
-![alt text](./images/NasaPhotoOfTheDay2019-09-12.jpg "Figma Concept")
+![alt text](Images/NasaPhotoOfTheDay2019-09-12.jpg "Figma Concept")
 - Now it's time to jump into the code!
 
 **Step 2 - File structure**
